@@ -1,4 +1,3 @@
-import { randInt } from "three/src/math/MathUtils.js";
 import { useEffect, useState } from "react";
 
 function App() {
