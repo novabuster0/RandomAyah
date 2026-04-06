@@ -17,6 +17,7 @@ function App() {
             className="w-screen h-screen select-none"
         >
             <h1>random quran verse generator</h1>
+            this is test
             <div
                 id="container"
                 className="p-5 flex flex-col gap-5  bg-[rgba(149,95,8,0.5)]"
